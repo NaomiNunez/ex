@@ -1,0 +1,32 @@
+#pic {
+  background-image: url("robots.jpg");
+}
+
+.banner-text {
+  top: 60% !important;
+
+}
+
+.w3-card {
+  left: 16px;
+  width: 30%;
+  padding: 10px;
+}
+
+#description {
+  color: black;
+  font-size: 19px;
+  line-height: 40px;
+  letter-spacing: 1px;
+  padding-right: 60px;
+  text-align: center;
+
+}
+#quote {
+  border: 3px dashed Navy;
+  color: Navy;
+  font-size: 20px;
+  line-height: 45px;
+  text-align: center;
+  margin: auto;
+}
