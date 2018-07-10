@@ -30,3 +30,22 @@
   text-align: center;
   margin: auto;
 }
+
+.product-card{
+   width:100%;
+}
+
+.product-img{
+  width:100%;
+}
+
+.buy-now{
+  margin-bottom: 15px;
+  float: right;
+}
+
+.price-label{
+  color: blue;
+  margin-bottom: 15px;
+  float: left;
+}
